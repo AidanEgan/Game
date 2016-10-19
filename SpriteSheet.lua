@@ -69,3 +69,4 @@ end
 function SpriteSheet:tStop()
     self.timing = false
 end
+
