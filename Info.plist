@@ -9,10 +9,14 @@
 		<string>Buttons</string>
 		<string>Main</string>
 		<string>SpriteSheet</string>
+		<string>World</string>
+		<string>Player</string>
 	</array>
 	<key>Created</key>
-	<string>2016-10-19 02:12:29 +0000</string>
+	<string>2016-10-19 17:13:56 +0000</string>
 	<key>Description</key>
 	<string>No description available</string>
+	<key>Icon</key>
+	<string>Icon.png</string>
 </dict>
 </plist>

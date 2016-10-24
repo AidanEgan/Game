@@ -101,3 +101,4 @@ end
 function SpriteSheet:stopAt(value)
     self.stopValue = value
 end
+
